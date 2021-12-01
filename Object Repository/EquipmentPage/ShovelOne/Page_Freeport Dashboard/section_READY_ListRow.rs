@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_READY_ListRow</name>
+   <tag></tag>
+   <elementGuidId>29e2f863-90c5-4afb-8da5-de6ae71b8b6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/section/div/div[2]/div[2]/div/div[4]/section</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'READY  (5) S001OPERATORBarton MalachiREASON200:PRODUCTIONLOCATIONLS-P1-4250TIME IN STATE0.02:59:34S002OPERATORKennedy JohnREASON201:SINGLE SIDED LOADINGLOCATIONLS-P1-4250DCTIME IN STATE0.03:48:05S003OPERATORContreras LuisREASON206:MINING BOULDERSLOCATIONLS-P1-4300ETIME IN STATE0.03:34:04S004OPERATORRascon RaulREASON200:PRODUCTIONLOCATIONLS-P2-5100ETIME IN STATE0.00:14:31S006OPERATORDubois Preston:)REASON200:PRODUCTIONLOCATIONLS-P1-4250STIME IN STATE0.02:28:32' or . = 'READY  (5) S001OPERATORBarton MalachiREASON200:PRODUCTIONLOCATIONLS-P1-4250TIME IN STATE0.02:59:34S002OPERATORKennedy JohnREASON201:SINGLE SIDED LOADINGLOCATIONLS-P1-4250DCTIME IN STATE0.03:48:05S003OPERATORContreras LuisREASON206:MINING BOULDERSLOCATIONLS-P1-4300ETIME IN STATE0.03:34:04S004OPERATORRascon RaulREASON200:PRODUCTIONLOCATIONLS-P2-5100ETIME IN STATE0.00:14:31S006OPERATORDubois Preston:)REASON200:PRODUCTIONLOCATIONLS-P1-4250STIME IN STATE0.02:28:32')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>equipment-section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>READY  (5) S001OPERATORBarton MalachiREASON200:PRODUCTIONLOCATIONLS-P1-4250TIME IN STATE0.02:59:34S002OPERATORKennedy JohnREASON201:SINGLE SIDED LOADINGLOCATIONLS-P1-4250DCTIME IN STATE0.03:48:05S003OPERATORContreras LuisREASON206:MINING BOULDERSLOCATIONLS-P1-4300ETIME IN STATE0.03:34:04S004OPERATORRascon RaulREASON200:PRODUCTIONLOCATIONLS-P2-5100ETIME IN STATE0.00:14:31S006OPERATORDubois Preston:)REASON200:PRODUCTIONLOCATIONLS-P1-4250STIME IN STATE0.02:28:32</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid&quot;]/section[@class=&quot;equipment-overview&quot;]/div[@class=&quot;tabs-container&quot;]/div[@class=&quot;tabs-content equipment-has-full-width-table&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 equipment-inline-xs&quot;]/section[@class=&quot;equipment-section&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/section/div/div[2]/div[2]/div/div[4]/section</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LD008'])[1]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LD002'])[1]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/section</value>
+   </webElementXpaths>
+</WebElementEntity>

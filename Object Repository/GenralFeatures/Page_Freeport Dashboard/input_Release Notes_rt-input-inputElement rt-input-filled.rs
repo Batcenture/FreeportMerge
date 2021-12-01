@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Release Notes_rt-input-inputElement rt-input-filled</name>
+   <tag></tag>
+   <elementGuidId>30bb28d0-009d-4877-ac84-bb39539ff20e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='English']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;Settings&quot;]/section[1]/div[@class=&quot;rt-tabs-tabs&quot;]/section[@class=&quot;rt-tabs-tab rt-tabs-active&quot;]/div[@class=&quot;card-container&quot;]/div[@class=&quot;card-inline-title col-md-12&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-centered&quot;]/div[@class=&quot;rt-dropdown-dropdown dropdown-mini&quot;]/div[@class=&quot;rt-input-input rt-dropdown-value&quot;]/input[@class=&quot;rt-input-inputElement rt-input-filled&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rt-dropdown-dropdown.dropdown-mini > div.rt-input-input.rt-dropdown-value > input.rt-input-inputElement.rt-input-filled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rt-input-inputElement rt-input-filled</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>English</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;Settings&quot;]/section[1]/div[@class=&quot;rt-tabs-tabs&quot;]/section[@class=&quot;rt-tabs-tab rt-tabs-active&quot;]/div[@class=&quot;card-container&quot;]/div[@class=&quot;card-inline-title col-md-12&quot;]/div[@class=&quot;card-content&quot;]/div[@class=&quot;card-centered&quot;]/div[@class=&quot;rt-dropdown-dropdown dropdown-mini&quot;]/div[@class=&quot;rt-input-input rt-dropdown-value&quot;]/input[@class=&quot;rt-input-inputElement rt-input-filled&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='English']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/section/div/section/div/div/div[2]/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

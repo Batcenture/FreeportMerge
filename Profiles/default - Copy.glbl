@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default - Copy</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'athena.colleen.silva@freeportmcmorandev.onmicrosoft.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'S+vxTSIbk8NE+26fexcPMg=='</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://fmiwebuimortest.azurewebsites.net\r\n'</initValue>
+      <name>Morenci</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://fmiwebuitestcer.azurewebsites.net'</initValue>
+      <name>CerroVerde</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://fmiwebuitestsaf.azurewebsites.net'</initValue>
+      <name>Safford</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://fmi-webui-bag-test-wu.azurewebsites.net\r\n'</initValue>
+      <name>Bagdad</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' https://fmi-webui-chi-test-wu.azurewebsites.net\r\n'</initValue>
+      <name>Chino</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' https://fmi-webui-sie-test-wu2.azurewebsites.net\r\n'</initValue>
+      <name>Sierrita</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://fmi-webui-cli-test-wu2.azurewebsites.net/'</initValue>
+      <name>Climax</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

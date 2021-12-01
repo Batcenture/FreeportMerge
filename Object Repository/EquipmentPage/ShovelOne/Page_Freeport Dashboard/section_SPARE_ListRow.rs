@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_SPARE_ListRow</name>
+   <tag></tag>
+   <elementGuidId>26336ac3-23d2-469d-8bf0-ac72d208721a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/section/div/div[2]/div[2]/div/div[3]/section</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'SPARE  (2) LD002OPERATOREason CareyREASON300:FOR NO OPERATORLOCATIONSCREENING PLANT SPTIME IN STATE0.00:59:30LD008OPERATORHunt ChrisREASON300:FOR NO OPERATORLOCATIONLS-P2-5100DCTIME IN STATE0.00:04:00' or . = 'SPARE  (2) LD002OPERATOREason CareyREASON300:FOR NO OPERATORLOCATIONSCREENING PLANT SPTIME IN STATE0.00:59:30LD008OPERATORHunt ChrisREASON300:FOR NO OPERATORLOCATIONLS-P2-5100DCTIME IN STATE0.00:04:00')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>equipment-section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SPARE  (2) LD002OPERATOREason CareyREASON300:FOR NO OPERATORLOCATIONSCREENING PLANT SPTIME IN STATE0.00:59:30LD008OPERATORHunt ChrisREASON300:FOR NO OPERATORLOCATIONLS-P2-5100DCTIME IN STATE0.00:04:00</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid&quot;]/section[@class=&quot;equipment-overview&quot;]/div[@class=&quot;tabs-container&quot;]/div[@class=&quot;tabs-content equipment-has-full-width-table&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 equipment-inline-xs&quot;]/section[@class=&quot;equipment-section&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/section/div/div[2]/div[2]/div/div[3]/section</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S005'])[1]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/section</value>
+   </webElementXpaths>
+</WebElementEntity>

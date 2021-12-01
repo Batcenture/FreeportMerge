@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>status_ascending_button</name>
+   <tag></tag>
+   <elementGuidId>b664fc54-b885-49ad-91e6-8ed5130d1050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/div/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/div/div[1]/span[2]/div/img[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.up</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/static/media/arrow-up.74d3f0e7.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>up</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/arrow-up.74d3f0e7.svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;tabs-container tabs-no-content-padding&quot;]/div[@class=&quot;tabs-content no-content-padding&quot;]/div[1]/div[@class=&quot;key-value-table&quot;]/div[@class=&quot;values-overflow&quot;]/div[1]/div[1]/div[@class=&quot;table-row head&quot;]/div[@class=&quot;fl-col-sm&quot;]/span[@class=&quot;sortingDirection&quot;]/div[@class=&quot;showBoth&quot;]/img[@class=&quot;up&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/span[2]/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>
